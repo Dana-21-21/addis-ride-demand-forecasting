@@ -1,0 +1,85 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# =========================
+# Virtual environments
+# =========================
+venv/
+.venv/
+env/
+.env/
+ENV/
+
+# =========================
+# Jupyter
+# =========================
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# =========================
+# macOS
+# =========================
+.DS_Store
+
+# =========================
+# IDE / Editor
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# Python / testing / tooling
+# =========================
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# Temporary files
+# =========================
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+
+# =========================
+# Raw competition data
+# Keep original raw files local
+# =========================
+data/raw/*.csv
+
+# =========================
+# Local generated data
+# =========================
+data/processed/*.csv
+
+# =========================
+# Model artifacts
+# =========================
+models/*.joblib
+models/*.pkl
+models/*.pickle
+
+# =========================
+# Local Streamlit files
+# =========================
+.streamlit/secrets.toml
+
+# =========================
+# OS / editor temporary files
+# =========================
+*.DS_Store
+
