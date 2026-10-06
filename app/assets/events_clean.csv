@@ -1,0 +1,322 @@
+event_id,event_name,event_type,venue,zone,start_eat,end_eat,window_start,window_end,attendance,status_clean
+EVT-0014,Premier league match,football_match,Addis Ababa Stadium,Kazanchis,2025-02-06 18:00:00+03:00,2025-02-06 20:00:00+03:00,2025-02-06 16:00:00+03:00,2025-02-06 22:00:00+03:00,34000.0,confirmed
+EVT-0081,Road closure (construction),road_closure,,Ayat,2025-06-07 08:00:00+03:00,2025-06-07 18:00:00+03:00,2025-06-07 08:00:00+03:00,2025-06-07 18:00:00+03:00,,confirmed
+EVT-0106,Premier league match,football_match,Addis Ababa Stadium,Kazanchis,2025-08-13 19:00:00+03:00,2025-08-13 21:00:00+03:00,2025-08-13 17:00:00+03:00,2025-08-13 23:00:00+03:00,30930.0,confirmed
+EVT-0069,Road closure (construction),road_closure,,CMC,2025-05-14 13:00:00+03:00,2025-05-15 03:00:00+03:00,2025-05-14 13:00:00+03:00,2025-05-15 03:00:00+03:00,,confirmed
+EVT-0045,Good Friday,public_holiday,,Arat Kilo,2025-04-18 00:00:00+03:00,2025-04-18 23:59:00+03:00,2025-04-18 00:00:00+03:00,2025-04-18 23:59:00+03:00,,confirmed
+EVT-0045,Good Friday,public_holiday,,Ayat,2025-04-18 00:00:00+03:00,2025-04-18 23:59:00+03:00,2025-04-18 00:00:00+03:00,2025-04-18 23:59:00+03:00,,confirmed
+EVT-0045,Good Friday,public_holiday,,Bole,2025-04-18 00:00:00+03:00,2025-04-18 23:59:00+03:00,2025-04-18 00:00:00+03:00,2025-04-18 23:59:00+03:00,,confirmed
+EVT-0045,Good Friday,public_holiday,,CMC,2025-04-18 00:00:00+03:00,2025-04-18 23:59:00+03:00,2025-04-18 00:00:00+03:00,2025-04-18 23:59:00+03:00,,confirmed
+EVT-0045,Good Friday,public_holiday,,Gerji,2025-04-18 00:00:00+03:00,2025-04-18 23:59:00+03:00,2025-04-18 00:00:00+03:00,2025-04-18 23:59:00+03:00,,confirmed
+EVT-0045,Good Friday,public_holiday,,Kazanchis,2025-04-18 00:00:00+03:00,2025-04-18 23:59:00+03:00,2025-04-18 00:00:00+03:00,2025-04-18 23:59:00+03:00,,confirmed
+EVT-0045,Good Friday,public_holiday,,Kolfe,2025-04-18 00:00:00+03:00,2025-04-18 23:59:00+03:00,2025-04-18 00:00:00+03:00,2025-04-18 23:59:00+03:00,,confirmed
+EVT-0045,Good Friday,public_holiday,,Lideta,2025-04-18 00:00:00+03:00,2025-04-18 23:59:00+03:00,2025-04-18 00:00:00+03:00,2025-04-18 23:59:00+03:00,,confirmed
+EVT-0045,Good Friday,public_holiday,,Megenagna,2025-04-18 00:00:00+03:00,2025-04-18 23:59:00+03:00,2025-04-18 00:00:00+03:00,2025-04-18 23:59:00+03:00,,confirmed
+EVT-0045,Good Friday,public_holiday,,Merkato,2025-04-18 00:00:00+03:00,2025-04-18 23:59:00+03:00,2025-04-18 00:00:00+03:00,2025-04-18 23:59:00+03:00,,confirmed
+EVT-0045,Good Friday,public_holiday,,Piassa,2025-04-18 00:00:00+03:00,2025-04-18 23:59:00+03:00,2025-04-18 00:00:00+03:00,2025-04-18 23:59:00+03:00,,confirmed
+EVT-0045,Good Friday,public_holiday,,Sarbet,2025-04-18 00:00:00+03:00,2025-04-18 23:59:00+03:00,2025-04-18 00:00:00+03:00,2025-04-18 23:59:00+03:00,,confirmed
+EVT-0089,Community fun run,sports_run,Meskel Square,Kazanchis,2025-06-22 06:00:00+03:00,2025-06-22 11:00:00+03:00,2025-06-22 05:00:00+03:00,2025-06-22 12:00:00+03:00,6530.0,confirmed
+EVT-0018,Conference: Agriculture summit,conference,City hotel,Piassa,2025-02-19 08:00:00+03:00,2025-02-19 17:00:00+03:00,2025-02-19 08:00:00+03:00,2025-02-19 17:00:00+03:00,2039.0,confirmed
+EVT-0070,Conference: Fintech forum,conference,UN conference centre,Kazanchis,2025-05-16 08:00:00+03:00,2025-05-16 17:00:00+03:00,2025-05-16 08:00:00+03:00,2025-05-16 17:00:00+03:00,384.0,confirmed
+EVT-0040,Eid al-Fitr,public_holiday,,Arat Kilo,2025-03-31 00:00:00+03:00,2025-03-31 23:59:00+03:00,2025-03-31 00:00:00+03:00,2025-03-31 23:59:00+03:00,,confirmed
+EVT-0040,Eid al-Fitr,public_holiday,,Ayat,2025-03-31 00:00:00+03:00,2025-03-31 23:59:00+03:00,2025-03-31 00:00:00+03:00,2025-03-31 23:59:00+03:00,,confirmed
+EVT-0040,Eid al-Fitr,public_holiday,,Bole,2025-03-31 00:00:00+03:00,2025-03-31 23:59:00+03:00,2025-03-31 00:00:00+03:00,2025-03-31 23:59:00+03:00,,confirmed
+EVT-0040,Eid al-Fitr,public_holiday,,CMC,2025-03-31 00:00:00+03:00,2025-03-31 23:59:00+03:00,2025-03-31 00:00:00+03:00,2025-03-31 23:59:00+03:00,,confirmed
+EVT-0040,Eid al-Fitr,public_holiday,,Gerji,2025-03-31 00:00:00+03:00,2025-03-31 23:59:00+03:00,2025-03-31 00:00:00+03:00,2025-03-31 23:59:00+03:00,,confirmed
+EVT-0040,Eid al-Fitr,public_holiday,,Kazanchis,2025-03-31 00:00:00+03:00,2025-03-31 23:59:00+03:00,2025-03-31 00:00:00+03:00,2025-03-31 23:59:00+03:00,,confirmed
+EVT-0040,Eid al-Fitr,public_holiday,,Kolfe,2025-03-31 00:00:00+03:00,2025-03-31 23:59:00+03:00,2025-03-31 00:00:00+03:00,2025-03-31 23:59:00+03:00,,confirmed
+EVT-0040,Eid al-Fitr,public_holiday,,Lideta,2025-03-31 00:00:00+03:00,2025-03-31 23:59:00+03:00,2025-03-31 00:00:00+03:00,2025-03-31 23:59:00+03:00,,confirmed
+EVT-0040,Eid al-Fitr,public_holiday,,Megenagna,2025-03-31 00:00:00+03:00,2025-03-31 23:59:00+03:00,2025-03-31 00:00:00+03:00,2025-03-31 23:59:00+03:00,,confirmed
+EVT-0040,Eid al-Fitr,public_holiday,,Merkato,2025-03-31 00:00:00+03:00,2025-03-31 23:59:00+03:00,2025-03-31 00:00:00+03:00,2025-03-31 23:59:00+03:00,,confirmed
+EVT-0040,Eid al-Fitr,public_holiday,,Piassa,2025-03-31 00:00:00+03:00,2025-03-31 23:59:00+03:00,2025-03-31 00:00:00+03:00,2025-03-31 23:59:00+03:00,,confirmed
+EVT-0040,Eid al-Fitr,public_holiday,,Sarbet,2025-03-31 00:00:00+03:00,2025-03-31 23:59:00+03:00,2025-03-31 00:00:00+03:00,2025-03-31 23:59:00+03:00,,confirmed
+EVT-0149,Premier league match,football_match,Addis Ababa Stadium,Kazanchis,2025-10-25 15:00:00+03:00,2025-10-25 17:00:00+03:00,2025-10-25 13:00:00+03:00,2025-10-25 19:00:00+03:00,32481.0,confirmed
+EVT-0039,Conference: Agriculture summit,conference,Convention hall,Bole,2025-03-28 08:00:00+03:00,2025-03-28 17:00:00+03:00,2025-03-28 08:00:00+03:00,2025-03-28 17:00:00+03:00,4765.0,confirmed
+EVT-0080,Conference: Education forum,conference,UN conference centre,Kazanchis,2025-06-06 08:00:00+03:00,2025-06-06 17:00:00+03:00,2025-06-06 08:00:00+03:00,2025-06-06 17:00:00+03:00,4142.0,confirmed
+EVT-0147,Conference: Education forum,conference,UN conference centre,Kazanchis,2025-10-20 08:00:00+03:00,2025-10-20 17:00:00+03:00,2025-10-20 08:00:00+03:00,2025-10-20 17:00:00+03:00,3665.0,confirmed
+EVT-0155,Live concert,concert,Millennium Hall,Bole,2025-11-05 19:00:00+03:00,2025-11-05 23:00:00+03:00,2025-11-05 18:00:00+03:00,2025-11-06 01:00:00+03:00,,confirmed
+EVT-0054,Conference: Fintech forum,conference,Convention hall,Bole,2025-04-29 08:00:00+03:00,2025-04-29 17:00:00+03:00,2025-04-29 08:00:00+03:00,2025-04-29 17:00:00+03:00,821.0,confirmed
+EVT-0055,International Labour Day,public_holiday,,Arat Kilo,2025-05-01 00:00:00+03:00,2025-05-01 23:59:00+03:00,2025-05-01 00:00:00+03:00,2025-05-01 23:59:00+03:00,,confirmed
+EVT-0055,International Labour Day,public_holiday,,Ayat,2025-05-01 00:00:00+03:00,2025-05-01 23:59:00+03:00,2025-05-01 00:00:00+03:00,2025-05-01 23:59:00+03:00,,confirmed
+EVT-0055,International Labour Day,public_holiday,,Bole,2025-05-01 00:00:00+03:00,2025-05-01 23:59:00+03:00,2025-05-01 00:00:00+03:00,2025-05-01 23:59:00+03:00,,confirmed
+EVT-0055,International Labour Day,public_holiday,,CMC,2025-05-01 00:00:00+03:00,2025-05-01 23:59:00+03:00,2025-05-01 00:00:00+03:00,2025-05-01 23:59:00+03:00,,confirmed
+EVT-0055,International Labour Day,public_holiday,,Gerji,2025-05-01 00:00:00+03:00,2025-05-01 23:59:00+03:00,2025-05-01 00:00:00+03:00,2025-05-01 23:59:00+03:00,,confirmed
+EVT-0055,International Labour Day,public_holiday,,Kazanchis,2025-05-01 00:00:00+03:00,2025-05-01 23:59:00+03:00,2025-05-01 00:00:00+03:00,2025-05-01 23:59:00+03:00,,confirmed
+EVT-0055,International Labour Day,public_holiday,,Kolfe,2025-05-01 00:00:00+03:00,2025-05-01 23:59:00+03:00,2025-05-01 00:00:00+03:00,2025-05-01 23:59:00+03:00,,confirmed
+EVT-0055,International Labour Day,public_holiday,,Lideta,2025-05-01 00:00:00+03:00,2025-05-01 23:59:00+03:00,2025-05-01 00:00:00+03:00,2025-05-01 23:59:00+03:00,,confirmed
+EVT-0055,International Labour Day,public_holiday,,Megenagna,2025-05-01 00:00:00+03:00,2025-05-01 23:59:00+03:00,2025-05-01 00:00:00+03:00,2025-05-01 23:59:00+03:00,,confirmed
+EVT-0055,International Labour Day,public_holiday,,Merkato,2025-05-01 00:00:00+03:00,2025-05-01 23:59:00+03:00,2025-05-01 00:00:00+03:00,2025-05-01 23:59:00+03:00,,confirmed
+EVT-0055,International Labour Day,public_holiday,,Piassa,2025-05-01 00:00:00+03:00,2025-05-01 23:59:00+03:00,2025-05-01 00:00:00+03:00,2025-05-01 23:59:00+03:00,,confirmed
+EVT-0055,International Labour Day,public_holiday,,Sarbet,2025-05-01 00:00:00+03:00,2025-05-01 23:59:00+03:00,2025-05-01 00:00:00+03:00,2025-05-01 23:59:00+03:00,,confirmed
+EVT-0157,Premier league match,football_match,Addis Ababa Stadium,Kazanchis,2025-11-09 15:00:00+03:00,2025-11-09 17:00:00+03:00,2025-11-09 13:00:00+03:00,2025-11-09 19:00:00+03:00,17799.0,confirmed
+EVT-0143,Road closure (construction),road_closure,,Gerji,2025-10-17 02:00:00+03:00,2025-10-18 06:00:00+03:00,2025-10-17 02:00:00+03:00,2025-10-18 06:00:00+03:00,,confirmed
+EVT-0028,Community fun run,sports_run,Meskel Square,Kazanchis,2025-03-09 06:00:00+03:00,2025-03-09 11:00:00+03:00,2025-03-09 05:00:00+03:00,2025-03-09 12:00:00+03:00,9659.0,confirmed
+EVT-0029,Premier league match,football_match,Addis Ababa Stadium,Kazanchis,2025-03-10 18:00:00+03:00,2025-03-10 20:00:00+03:00,2025-03-10 16:00:00+03:00,2025-03-10 22:00:00+03:00,9820.0,confirmed
+EVT-0113,Live concert,concert,Millennium Hall,Bole,2025-09-01 20:00:00+03:00,2025-09-02 00:00:00+03:00,2025-09-01 19:00:00+03:00,2025-09-02 02:00:00+03:00,10235.0,cancelled
+EVT-0102,Road closure (construction),road_closure,,Arat Kilo,2025-08-10 08:00:00+03:00,2025-08-10 18:00:00+03:00,2025-08-10 08:00:00+03:00,2025-08-10 18:00:00+03:00,,confirmed
+EVT-0102,Road closure (construction),road_closure,,Kazanchis,2025-08-10 08:00:00+03:00,2025-08-10 18:00:00+03:00,2025-08-10 08:00:00+03:00,2025-08-10 18:00:00+03:00,,confirmed
+EVT-0007,Premier league match,football_match,Addis Ababa Stadium,Kazanchis,2025-01-26 15:00:00+03:00,2025-01-26 17:00:00+03:00,2025-01-26 13:00:00+03:00,2025-01-26 19:00:00+03:00,34756.0,confirmed
+EVT-0079,Eid al-Adha,public_holiday,,Arat Kilo,2025-06-06 00:00:00+03:00,2025-06-06 23:59:00+03:00,2025-06-06 00:00:00+03:00,2025-06-06 23:59:00+03:00,,confirmed
+EVT-0079,Eid al-Adha,public_holiday,,Ayat,2025-06-06 00:00:00+03:00,2025-06-06 23:59:00+03:00,2025-06-06 00:00:00+03:00,2025-06-06 23:59:00+03:00,,confirmed
+EVT-0079,Eid al-Adha,public_holiday,,Bole,2025-06-06 00:00:00+03:00,2025-06-06 23:59:00+03:00,2025-06-06 00:00:00+03:00,2025-06-06 23:59:00+03:00,,confirmed
+EVT-0079,Eid al-Adha,public_holiday,,CMC,2025-06-06 00:00:00+03:00,2025-06-06 23:59:00+03:00,2025-06-06 00:00:00+03:00,2025-06-06 23:59:00+03:00,,confirmed
+EVT-0079,Eid al-Adha,public_holiday,,Gerji,2025-06-06 00:00:00+03:00,2025-06-06 23:59:00+03:00,2025-06-06 00:00:00+03:00,2025-06-06 23:59:00+03:00,,confirmed
+EVT-0079,Eid al-Adha,public_holiday,,Kazanchis,2025-06-06 00:00:00+03:00,2025-06-06 23:59:00+03:00,2025-06-06 00:00:00+03:00,2025-06-06 23:59:00+03:00,,confirmed
+EVT-0079,Eid al-Adha,public_holiday,,Kolfe,2025-06-06 00:00:00+03:00,2025-06-06 23:59:00+03:00,2025-06-06 00:00:00+03:00,2025-06-06 23:59:00+03:00,,confirmed
+EVT-0079,Eid al-Adha,public_holiday,,Lideta,2025-06-06 00:00:00+03:00,2025-06-06 23:59:00+03:00,2025-06-06 00:00:00+03:00,2025-06-06 23:59:00+03:00,,confirmed
+EVT-0079,Eid al-Adha,public_holiday,,Megenagna,2025-06-06 00:00:00+03:00,2025-06-06 23:59:00+03:00,2025-06-06 00:00:00+03:00,2025-06-06 23:59:00+03:00,,confirmed
+EVT-0079,Eid al-Adha,public_holiday,,Merkato,2025-06-06 00:00:00+03:00,2025-06-06 23:59:00+03:00,2025-06-06 00:00:00+03:00,2025-06-06 23:59:00+03:00,,confirmed
+EVT-0079,Eid al-Adha,public_holiday,,Piassa,2025-06-06 00:00:00+03:00,2025-06-06 23:59:00+03:00,2025-06-06 00:00:00+03:00,2025-06-06 23:59:00+03:00,,confirmed
+EVT-0079,Eid al-Adha,public_holiday,,Sarbet,2025-06-06 00:00:00+03:00,2025-06-06 23:59:00+03:00,2025-06-06 00:00:00+03:00,2025-06-06 23:59:00+03:00,,confirmed
+EVT-9004,Conference: Education forum,conference,UN conference centre,Kazanchis,2025-10-03 08:00:00+03:00,2025-10-03 17:00:00+03:00,2025-10-03 08:00:00+03:00,2025-10-03 17:00:00+03:00,1015.0,confirmed
+EVT-0038,Road closure (construction),road_closure,,Piassa,2025-03-26 08:00:00+03:00,2025-03-26 18:00:00+03:00,2025-03-26 08:00:00+03:00,2025-03-26 18:00:00+03:00,,confirmed
+EVT-0027,Premier league match,football_match,Addis Ababa Stadium,Kazanchis,2025-03-08 15:00:00+03:00,2025-03-08 17:00:00+03:00,2025-03-08 13:00:00+03:00,2025-03-08 19:00:00+03:00,,confirmed
+EVT-0068,Conference: Education forum,conference,UN conference centre,Kazanchis,2025-05-14 08:00:00+03:00,2025-05-14 17:00:00+03:00,2025-05-14 08:00:00+03:00,2025-05-14 17:00:00+03:00,1461.0,confirmed
+EVT-0032,Conference: Fintech forum,conference,UN conference centre,Kazanchis,2025-03-13 08:00:00+03:00,2025-03-13 17:00:00+03:00,2025-03-13 08:00:00+03:00,2025-03-13 17:00:00+03:00,3662.0,confirmed
+EVT-0112,Live concert,concert,Millennium Hall,Bole,2025-08-27 19:00:00+03:00,2025-08-27 23:00:00+03:00,2025-08-27 18:00:00+03:00,2025-08-28 01:00:00+03:00,7892.0,confirmed
+EVT-0052,Premier league match,football_match,Addis Ababa Stadium,Kazanchis,2025-04-23 18:00:00+03:00,2025-04-23 20:00:00+03:00,2025-04-23 16:00:00+03:00,2025-04-23 22:00:00+03:00,28932.0,cancelled
+EVT-0074,Road closure (construction),road_closure,,Lideta,2025-05-24 08:00:00+03:00,2025-05-24 18:00:00+03:00,2025-05-24 08:00:00+03:00,2025-05-24 18:00:00+03:00,,confirmed
+EVT-9001,Premier league match,football_match,Addis Ababa Stadium,Kazanchis,2025-01-19 15:00:00+03:00,2025-01-19 17:00:00+03:00,2025-01-19 13:00:00+03:00,2025-01-19 19:00:00+03:00,16007.0,confirmed
+EVT-0010,Premier league match,football_match,Addis Ababa Stadium,Kazanchis,2025-02-02 15:00:00+03:00,2025-02-02 17:00:00+03:00,2025-02-02 13:00:00+03:00,2025-02-02 19:00:00+03:00,15596.0,confirmed
+EVT-0086,Conference: Agriculture summit,conference,UN conference centre,Kazanchis,2025-06-12 08:00:00+03:00,2025-06-12 17:00:00+03:00,2025-06-12 08:00:00+03:00,2025-06-12 17:00:00+03:00,4652.0,confirmed
+EVT-0003,Timkat (Epiphany),public_holiday,,Arat Kilo,2025-01-19 00:00:00+03:00,2025-01-19 23:59:00+03:00,2025-01-19 00:00:00+03:00,2025-01-19 23:59:00+03:00,,confirmed
+EVT-0003,Timkat (Epiphany),public_holiday,,Ayat,2025-01-19 00:00:00+03:00,2025-01-19 23:59:00+03:00,2025-01-19 00:00:00+03:00,2025-01-19 23:59:00+03:00,,confirmed
+EVT-0003,Timkat (Epiphany),public_holiday,,Bole,2025-01-19 00:00:00+03:00,2025-01-19 23:59:00+03:00,2025-01-19 00:00:00+03:00,2025-01-19 23:59:00+03:00,,confirmed
+EVT-0003,Timkat (Epiphany),public_holiday,,CMC,2025-01-19 00:00:00+03:00,2025-01-19 23:59:00+03:00,2025-01-19 00:00:00+03:00,2025-01-19 23:59:00+03:00,,confirmed
+EVT-0003,Timkat (Epiphany),public_holiday,,Gerji,2025-01-19 00:00:00+03:00,2025-01-19 23:59:00+03:00,2025-01-19 00:00:00+03:00,2025-01-19 23:59:00+03:00,,confirmed
+EVT-0003,Timkat (Epiphany),public_holiday,,Kazanchis,2025-01-19 00:00:00+03:00,2025-01-19 23:59:00+03:00,2025-01-19 00:00:00+03:00,2025-01-19 23:59:00+03:00,,confirmed
+EVT-0003,Timkat (Epiphany),public_holiday,,Kolfe,2025-01-19 00:00:00+03:00,2025-01-19 23:59:00+03:00,2025-01-19 00:00:00+03:00,2025-01-19 23:59:00+03:00,,confirmed
+EVT-0003,Timkat (Epiphany),public_holiday,,Lideta,2025-01-19 00:00:00+03:00,2025-01-19 23:59:00+03:00,2025-01-19 00:00:00+03:00,2025-01-19 23:59:00+03:00,,confirmed
+EVT-0003,Timkat (Epiphany),public_holiday,,Megenagna,2025-01-19 00:00:00+03:00,2025-01-19 23:59:00+03:00,2025-01-19 00:00:00+03:00,2025-01-19 23:59:00+03:00,,confirmed
+EVT-0003,Timkat (Epiphany),public_holiday,,Merkato,2025-01-19 00:00:00+03:00,2025-01-19 23:59:00+03:00,2025-01-19 00:00:00+03:00,2025-01-19 23:59:00+03:00,,confirmed
+EVT-0003,Timkat (Epiphany),public_holiday,,Piassa,2025-01-19 00:00:00+03:00,2025-01-19 23:59:00+03:00,2025-01-19 00:00:00+03:00,2025-01-19 23:59:00+03:00,,confirmed
+EVT-0003,Timkat (Epiphany),public_holiday,,Sarbet,2025-01-19 00:00:00+03:00,2025-01-19 23:59:00+03:00,2025-01-19 00:00:00+03:00,2025-01-19 23:59:00+03:00,,confirmed
+EVT-0026,Conference: Fintech forum,conference,UN conference centre,Kazanchis,2025-03-03 08:00:00+03:00,2025-03-03 17:00:00+03:00,2025-03-03 08:00:00+03:00,2025-03-03 17:00:00+03:00,4389.0,confirmed
+EVT-0022,Road closure (construction),road_closure,,Lideta,2025-02-28 05:00:00+03:00,2025-02-28 12:00:00+03:00,2025-02-28 05:00:00+03:00,2025-02-28 12:00:00+03:00,,confirmed
+EVT-0101,Live concert,concert,Millennium Hall,Bole,2025-08-09 19:00:00+03:00,2025-08-09 23:00:00+03:00,2025-08-09 18:00:00+03:00,2025-08-10 01:00:00+03:00,9045.0,confirmed
+EVT-0133,Premier league match,football_match,Addis Ababa Stadium,Kazanchis,2025-10-05 15:00:00+03:00,2025-10-05 17:00:00+03:00,2025-10-05 13:00:00+03:00,2025-10-05 19:00:00+03:00,11527.0,confirmed
+EVT-0094,Trade exhibition,exhibition,Exhibition centre,Bole,2025-06-30 10:00:00+03:00,2025-07-03 18:00:00+03:00,2025-06-30 10:00:00+03:00,2025-07-03 18:00:00+03:00,4854.0,confirmed
+EVT-0061,Patriots' Victory Day,public_holiday,,Arat Kilo,2025-05-05 00:00:00+03:00,2025-05-05 23:59:00+03:00,2025-05-05 00:00:00+03:00,2025-05-05 23:59:00+03:00,,confirmed
+EVT-0061,Patriots' Victory Day,public_holiday,,Ayat,2025-05-05 00:00:00+03:00,2025-05-05 23:59:00+03:00,2025-05-05 00:00:00+03:00,2025-05-05 23:59:00+03:00,,confirmed
+EVT-0061,Patriots' Victory Day,public_holiday,,Bole,2025-05-05 00:00:00+03:00,2025-05-05 23:59:00+03:00,2025-05-05 00:00:00+03:00,2025-05-05 23:59:00+03:00,,confirmed
+EVT-0061,Patriots' Victory Day,public_holiday,,CMC,2025-05-05 00:00:00+03:00,2025-05-05 23:59:00+03:00,2025-05-05 00:00:00+03:00,2025-05-05 23:59:00+03:00,,confirmed
+EVT-0061,Patriots' Victory Day,public_holiday,,Gerji,2025-05-05 00:00:00+03:00,2025-05-05 23:59:00+03:00,2025-05-05 00:00:00+03:00,2025-05-05 23:59:00+03:00,,confirmed
+EVT-0061,Patriots' Victory Day,public_holiday,,Kazanchis,2025-05-05 00:00:00+03:00,2025-05-05 23:59:00+03:00,2025-05-05 00:00:00+03:00,2025-05-05 23:59:00+03:00,,confirmed
+EVT-0061,Patriots' Victory Day,public_holiday,,Kolfe,2025-05-05 00:00:00+03:00,2025-05-05 23:59:00+03:00,2025-05-05 00:00:00+03:00,2025-05-05 23:59:00+03:00,,confirmed
+EVT-0061,Patriots' Victory Day,public_holiday,,Lideta,2025-05-05 00:00:00+03:00,2025-05-05 23:59:00+03:00,2025-05-05 00:00:00+03:00,2025-05-05 23:59:00+03:00,,confirmed
+EVT-0061,Patriots' Victory Day,public_holiday,,Megenagna,2025-05-05 00:00:00+03:00,2025-05-05 23:59:00+03:00,2025-05-05 00:00:00+03:00,2025-05-05 23:59:00+03:00,,confirmed
+EVT-0061,Patriots' Victory Day,public_holiday,,Merkato,2025-05-05 00:00:00+03:00,2025-05-05 23:59:00+03:00,2025-05-05 00:00:00+03:00,2025-05-05 23:59:00+03:00,,confirmed
+EVT-0061,Patriots' Victory Day,public_holiday,,Piassa,2025-05-05 00:00:00+03:00,2025-05-05 23:59:00+03:00,2025-05-05 00:00:00+03:00,2025-05-05 23:59:00+03:00,,confirmed
+EVT-0061,Patriots' Victory Day,public_holiday,,Sarbet,2025-05-05 00:00:00+03:00,2025-05-05 23:59:00+03:00,2025-05-05 00:00:00+03:00,2025-05-05 23:59:00+03:00,,confirmed
+EVT-0141,Road closure (construction),road_closure,,Bole,2025-10-14 18:00:00+03:00,2025-10-15 04:00:00+03:00,2025-10-14 18:00:00+03:00,2025-10-15 04:00:00+03:00,,confirmed
+EVT-0090,Live concert,concert,Millennium Hall,Bole,2025-06-25 20:00:00+03:00,2025-06-26 00:00:00+03:00,2025-06-25 19:00:00+03:00,2025-06-26 02:00:00+03:00,6669.0,confirmed
+EVT-0021,Premier league match,football_match,Addis Ababa Stadium,Kazanchis,2025-02-22 15:00:00+03:00,2025-02-22 17:00:00+03:00,2025-02-22 13:00:00+03:00,2025-02-22 19:00:00+03:00,,confirmed
+EVT-0123,Premier league match,football_match,Addis Ababa Stadium,Kazanchis,2025-09-14 15:00:00+03:00,2025-09-14 17:00:00+03:00,2025-09-14 13:00:00+03:00,2025-09-14 19:00:00+03:00,16782.0,confirmed
+EVT-0044,Conference: Tech expo talks,conference,UN conference centre,Kazanchis,2025-04-08 08:00:00+03:00,2025-04-08 17:00:00+03:00,2025-04-08 08:00:00+03:00,2025-04-08 17:00:00+03:00,4731.0,confirmed
+EVT-0159,Premier league match,football_match,Addis Ababa Stadium,Kazanchis,2025-11-10 19:00:00+03:00,2025-11-10 21:00:00+03:00,2025-11-10 17:00:00+03:00,2025-11-10 23:00:00+03:00,,confirmed
+EVT-0056,Premier league match,football_match,Addis Ababa Stadium,Kazanchis,2025-05-02 19:00:00+03:00,2025-05-02 21:00:00+03:00,2025-05-02 17:00:00+03:00,2025-05-02 23:00:00+03:00,20970.0,confirmed
+EVT-0087,Premier league match,football_match,Addis Ababa Stadium,Kazanchis,2025-06-15 15:00:00+03:00,2025-06-15 17:00:00+03:00,2025-06-15 13:00:00+03:00,2025-06-15 19:00:00+03:00,31140.0,confirmed
+EVT-0024,Premier league match,football_match,Addis Ababa Stadium,Kazanchis,2025-03-02 15:00:00+03:00,2025-03-02 17:00:00+03:00,2025-03-02 13:00:00+03:00,2025-03-02 19:00:00+03:00,,confirmed
+EVT-0107,Live concert,concert,Millennium Hall,Bole,2025-08-16 20:00:00+03:00,2025-08-17 00:00:00+03:00,2025-08-16 19:00:00+03:00,2025-08-17 02:00:00+03:00,9098.0,confirmed
+EVT-0098,Conference: Health congress,conference,UN conference centre,Kazanchis,2025-07-25 08:00:00+03:00,2025-07-25 17:00:00+03:00,2025-07-25 08:00:00+03:00,2025-07-25 17:00:00+03:00,2684.0,confirmed
+EVT-0071,Live concert,concert,Millennium Hall,Bole,2025-05-18 20:00:00+03:00,2025-05-19 00:00:00+03:00,2025-05-18 19:00:00+03:00,2025-05-19 02:00:00+03:00,3688.0,confirmed
+EVT-0036,Conference: Agriculture summit,conference,UN conference centre,Kazanchis,2025-03-21 08:00:00+03:00,2025-03-21 17:00:00+03:00,2025-03-21 08:00:00+03:00,2025-03-21 17:00:00+03:00,700.0,confirmed
+EVT-0139,Trade exhibition,exhibition,Exhibition centre,Bole,2025-10-12 08:00:00+03:00,2025-10-12 10:00:00+03:00,2025-10-12 08:00:00+03:00,2025-10-12 10:00:00+03:00,3502.0,confirmed
+EVT-0048,Fasika (Ethiopian Easter),public_holiday,,Arat Kilo,2025-04-20 00:00:00+03:00,2025-04-20 23:59:00+03:00,2025-04-20 00:00:00+03:00,2025-04-20 23:59:00+03:00,,confirmed
+EVT-0048,Fasika (Ethiopian Easter),public_holiday,,Ayat,2025-04-20 00:00:00+03:00,2025-04-20 23:59:00+03:00,2025-04-20 00:00:00+03:00,2025-04-20 23:59:00+03:00,,confirmed
+EVT-0048,Fasika (Ethiopian Easter),public_holiday,,Bole,2025-04-20 00:00:00+03:00,2025-04-20 23:59:00+03:00,2025-04-20 00:00:00+03:00,2025-04-20 23:59:00+03:00,,confirmed
+EVT-0048,Fasika (Ethiopian Easter),public_holiday,,CMC,2025-04-20 00:00:00+03:00,2025-04-20 23:59:00+03:00,2025-04-20 00:00:00+03:00,2025-04-20 23:59:00+03:00,,confirmed
+EVT-0048,Fasika (Ethiopian Easter),public_holiday,,Gerji,2025-04-20 00:00:00+03:00,2025-04-20 23:59:00+03:00,2025-04-20 00:00:00+03:00,2025-04-20 23:59:00+03:00,,confirmed
+EVT-0048,Fasika (Ethiopian Easter),public_holiday,,Kazanchis,2025-04-20 00:00:00+03:00,2025-04-20 23:59:00+03:00,2025-04-20 00:00:00+03:00,2025-04-20 23:59:00+03:00,,confirmed
+EVT-0048,Fasika (Ethiopian Easter),public_holiday,,Kolfe,2025-04-20 00:00:00+03:00,2025-04-20 23:59:00+03:00,2025-04-20 00:00:00+03:00,2025-04-20 23:59:00+03:00,,confirmed
+EVT-0048,Fasika (Ethiopian Easter),public_holiday,,Lideta,2025-04-20 00:00:00+03:00,2025-04-20 23:59:00+03:00,2025-04-20 00:00:00+03:00,2025-04-20 23:59:00+03:00,,confirmed
+EVT-0048,Fasika (Ethiopian Easter),public_holiday,,Megenagna,2025-04-20 00:00:00+03:00,2025-04-20 23:59:00+03:00,2025-04-20 00:00:00+03:00,2025-04-20 23:59:00+03:00,,confirmed
+EVT-0048,Fasika (Ethiopian Easter),public_holiday,,Merkato,2025-04-20 00:00:00+03:00,2025-04-20 23:59:00+03:00,2025-04-20 00:00:00+03:00,2025-04-20 23:59:00+03:00,,confirmed
+EVT-0048,Fasika (Ethiopian Easter),public_holiday,,Piassa,2025-04-20 00:00:00+03:00,2025-04-20 23:59:00+03:00,2025-04-20 00:00:00+03:00,2025-04-20 23:59:00+03:00,,confirmed
+EVT-0048,Fasika (Ethiopian Easter),public_holiday,,Sarbet,2025-04-20 00:00:00+03:00,2025-04-20 23:59:00+03:00,2025-04-20 00:00:00+03:00,2025-04-20 23:59:00+03:00,,confirmed
+EVT-0084,Conference: Energy conference,conference,UN conference centre,Kazanchis,2025-06-10 08:00:00+03:00,2025-06-10 17:00:00+03:00,2025-06-10 08:00:00+03:00,2025-06-10 17:00:00+03:00,3698.0,confirmed
+EVT-0046,Premier league match,football_match,Addis Ababa Stadium,Kazanchis,2025-04-19 15:00:00+03:00,2025-04-19 17:00:00+03:00,2025-04-19 13:00:00+03:00,2025-04-19 19:00:00+03:00,24897.0,confirmed
+EVT-0001,Genna (Ethiopian Christmas),public_holiday,,Arat Kilo,2025-01-07 00:00:00+03:00,2025-01-07 23:59:00+03:00,2025-01-07 00:00:00+03:00,2025-01-07 23:59:00+03:00,,confirmed
+EVT-0001,Genna (Ethiopian Christmas),public_holiday,,Ayat,2025-01-07 00:00:00+03:00,2025-01-07 23:59:00+03:00,2025-01-07 00:00:00+03:00,2025-01-07 23:59:00+03:00,,confirmed
+EVT-0001,Genna (Ethiopian Christmas),public_holiday,,Bole,2025-01-07 00:00:00+03:00,2025-01-07 23:59:00+03:00,2025-01-07 00:00:00+03:00,2025-01-07 23:59:00+03:00,,confirmed
+EVT-0001,Genna (Ethiopian Christmas),public_holiday,,CMC,2025-01-07 00:00:00+03:00,2025-01-07 23:59:00+03:00,2025-01-07 00:00:00+03:00,2025-01-07 23:59:00+03:00,,confirmed
+EVT-0001,Genna (Ethiopian Christmas),public_holiday,,Gerji,2025-01-07 00:00:00+03:00,2025-01-07 23:59:00+03:00,2025-01-07 00:00:00+03:00,2025-01-07 23:59:00+03:00,,confirmed
+EVT-0001,Genna (Ethiopian Christmas),public_holiday,,Kazanchis,2025-01-07 00:00:00+03:00,2025-01-07 23:59:00+03:00,2025-01-07 00:00:00+03:00,2025-01-07 23:59:00+03:00,,confirmed
+EVT-0001,Genna (Ethiopian Christmas),public_holiday,,Kolfe,2025-01-07 00:00:00+03:00,2025-01-07 23:59:00+03:00,2025-01-07 00:00:00+03:00,2025-01-07 23:59:00+03:00,,confirmed
+EVT-0001,Genna (Ethiopian Christmas),public_holiday,,Lideta,2025-01-07 00:00:00+03:00,2025-01-07 23:59:00+03:00,2025-01-07 00:00:00+03:00,2025-01-07 23:59:00+03:00,,confirmed
+EVT-0001,Genna (Ethiopian Christmas),public_holiday,,Megenagna,2025-01-07 00:00:00+03:00,2025-01-07 23:59:00+03:00,2025-01-07 00:00:00+03:00,2025-01-07 23:59:00+03:00,,confirmed
+EVT-0001,Genna (Ethiopian Christmas),public_holiday,,Merkato,2025-01-07 00:00:00+03:00,2025-01-07 23:59:00+03:00,2025-01-07 00:00:00+03:00,2025-01-07 23:59:00+03:00,,confirmed
+EVT-0001,Genna (Ethiopian Christmas),public_holiday,,Piassa,2025-01-07 00:00:00+03:00,2025-01-07 23:59:00+03:00,2025-01-07 00:00:00+03:00,2025-01-07 23:59:00+03:00,,confirmed
+EVT-0001,Genna (Ethiopian Christmas),public_holiday,,Sarbet,2025-01-07 00:00:00+03:00,2025-01-07 23:59:00+03:00,2025-01-07 00:00:00+03:00,2025-01-07 23:59:00+03:00,,confirmed
+EVT-0095,Live concert,concert,Millennium Hall,Bole,2025-07-02 19:00:00+03:00,2025-07-02 23:00:00+03:00,2025-07-02 18:00:00+03:00,2025-07-03 01:00:00+03:00,4018.0,confirmed
+EVT-0008,Conference: Education forum,conference,City hotel,Piassa,2025-01-31 08:00:00+03:00,2025-01-31 17:00:00+03:00,2025-01-31 08:00:00+03:00,2025-01-31 17:00:00+03:00,3559.0,confirmed
+EVT-9000,Conference: Energy conference,conference,UN conference centre,Kazanchis,2025-02-06 08:00:00+03:00,2025-02-06 17:00:00+03:00,2025-02-06 08:00:00+03:00,2025-02-06 17:00:00+03:00,1300.0,confirmed
+EVT-0132,Premier league match,football_match,Addis Ababa Stadium,Kazanchis,2025-10-04 15:00:00+03:00,2025-10-04 17:00:00+03:00,2025-10-04 13:00:00+03:00,2025-10-04 19:00:00+03:00,20770.0,confirmed
+EVT-0085,Conference: Tech expo talks,conference,Convention hall,Bole,2025-06-11 08:00:00+03:00,2025-06-11 17:00:00+03:00,2025-06-11 08:00:00+03:00,2025-06-11 17:00:00+03:00,3477.0,confirmed
+EVT-0152,Conference: Health congress,conference,Convention hall,Bole,2025-10-31 08:00:00+03:00,2025-10-31 17:00:00+03:00,2025-10-31 08:00:00+03:00,2025-10-31 17:00:00+03:00,1250.0,confirmed
+EVT-0091,Road closure (construction),road_closure,,Bole,2025-06-26 08:00:00+03:00,2025-06-26 18:00:00+03:00,2025-06-26 08:00:00+03:00,2025-06-26 18:00:00+03:00,,confirmed
+EVT-0115,Mawlid,public_holiday,,Arat Kilo,2025-09-04 00:00:00+03:00,2025-09-04 23:59:00+03:00,2025-09-04 00:00:00+03:00,2025-09-04 23:59:00+03:00,,confirmed
+EVT-0115,Mawlid,public_holiday,,Ayat,2025-09-04 00:00:00+03:00,2025-09-04 23:59:00+03:00,2025-09-04 00:00:00+03:00,2025-09-04 23:59:00+03:00,,confirmed
+EVT-0115,Mawlid,public_holiday,,Bole,2025-09-04 00:00:00+03:00,2025-09-04 23:59:00+03:00,2025-09-04 00:00:00+03:00,2025-09-04 23:59:00+03:00,,confirmed
+EVT-0115,Mawlid,public_holiday,,CMC,2025-09-04 00:00:00+03:00,2025-09-04 23:59:00+03:00,2025-09-04 00:00:00+03:00,2025-09-04 23:59:00+03:00,,confirmed
+EVT-0115,Mawlid,public_holiday,,Gerji,2025-09-04 00:00:00+03:00,2025-09-04 23:59:00+03:00,2025-09-04 00:00:00+03:00,2025-09-04 23:59:00+03:00,,confirmed
+EVT-0115,Mawlid,public_holiday,,Kazanchis,2025-09-04 00:00:00+03:00,2025-09-04 23:59:00+03:00,2025-09-04 00:00:00+03:00,2025-09-04 23:59:00+03:00,,confirmed
+EVT-0115,Mawlid,public_holiday,,Kolfe,2025-09-04 00:00:00+03:00,2025-09-04 23:59:00+03:00,2025-09-04 00:00:00+03:00,2025-09-04 23:59:00+03:00,,confirmed
+EVT-0115,Mawlid,public_holiday,,Lideta,2025-09-04 00:00:00+03:00,2025-09-04 23:59:00+03:00,2025-09-04 00:00:00+03:00,2025-09-04 23:59:00+03:00,,confirmed
+EVT-0115,Mawlid,public_holiday,,Megenagna,2025-09-04 00:00:00+03:00,2025-09-04 23:59:00+03:00,2025-09-04 00:00:00+03:00,2025-09-04 23:59:00+03:00,,confirmed
+EVT-0115,Mawlid,public_holiday,,Merkato,2025-09-04 00:00:00+03:00,2025-09-04 23:59:00+03:00,2025-09-04 00:00:00+03:00,2025-09-04 23:59:00+03:00,,confirmed
+EVT-0115,Mawlid,public_holiday,,Piassa,2025-09-04 00:00:00+03:00,2025-09-04 23:59:00+03:00,2025-09-04 00:00:00+03:00,2025-09-04 23:59:00+03:00,,confirmed
+EVT-0115,Mawlid,public_holiday,,Sarbet,2025-09-04 00:00:00+03:00,2025-09-04 23:59:00+03:00,2025-09-04 00:00:00+03:00,2025-09-04 23:59:00+03:00,,confirmed
+EVT-0011,Live concert,concert,Millennium Hall,Bole,2025-02-02 19:00:00+03:00,2025-02-02 23:00:00+03:00,2025-02-02 18:00:00+03:00,2025-02-03 01:00:00+03:00,4711.0,confirmed
+EVT-0148,Premier league match,football_match,Addis Ababa Stadium,Kazanchis,2025-10-22 19:00:00+03:00,2025-10-22 21:00:00+03:00,2025-10-22 17:00:00+03:00,2025-10-22 23:00:00+03:00,18171.0,confirmed
+EVT-0134,Conference: Health congress,conference,Convention hall,Bole,2025-10-06 08:00:00+03:00,2025-10-06 17:00:00+03:00,2025-10-06 08:00:00+03:00,2025-10-06 17:00:00+03:00,2063.0,confirmed
+EVT-0119,Premier league match,football_match,Addis Ababa Stadium,Kazanchis,2025-09-10 18:00:00+03:00,2025-09-10 20:00:00+03:00,2025-09-10 16:00:00+03:00,2025-09-10 22:00:00+03:00,25794.0,confirmed
+EVT-0104,Road closure (construction),road_closure,,Kolfe,2025-08-13 07:00:00+03:00,2025-08-14 06:00:00+03:00,2025-08-13 07:00:00+03:00,2025-08-14 06:00:00+03:00,,confirmed
+EVT-0137,Trade exhibition,exhibition,Exhibition centre,Bole,2025-10-10 10:00:00+03:00,2025-10-13 18:00:00+03:00,2025-10-10 10:00:00+03:00,2025-10-13 18:00:00+03:00,3986.0,confirmed
+EVT-0012,Mid-year school break,school_break,,Arat Kilo,2025-02-03 00:00:00+03:00,2025-02-14 23:59:00+03:00,2025-02-03 00:00:00+03:00,2025-02-14 23:59:00+03:00,,confirmed
+EVT-0012,Mid-year school break,school_break,,Ayat,2025-02-03 00:00:00+03:00,2025-02-14 23:59:00+03:00,2025-02-03 00:00:00+03:00,2025-02-14 23:59:00+03:00,,confirmed
+EVT-0012,Mid-year school break,school_break,,Bole,2025-02-03 00:00:00+03:00,2025-02-14 23:59:00+03:00,2025-02-03 00:00:00+03:00,2025-02-14 23:59:00+03:00,,confirmed
+EVT-0012,Mid-year school break,school_break,,CMC,2025-02-03 00:00:00+03:00,2025-02-14 23:59:00+03:00,2025-02-03 00:00:00+03:00,2025-02-14 23:59:00+03:00,,confirmed
+EVT-0012,Mid-year school break,school_break,,Gerji,2025-02-03 00:00:00+03:00,2025-02-14 23:59:00+03:00,2025-02-03 00:00:00+03:00,2025-02-14 23:59:00+03:00,,confirmed
+EVT-0012,Mid-year school break,school_break,,Kazanchis,2025-02-03 00:00:00+03:00,2025-02-14 23:59:00+03:00,2025-02-03 00:00:00+03:00,2025-02-14 23:59:00+03:00,,confirmed
+EVT-0012,Mid-year school break,school_break,,Kolfe,2025-02-03 00:00:00+03:00,2025-02-14 23:59:00+03:00,2025-02-03 00:00:00+03:00,2025-02-14 23:59:00+03:00,,confirmed
+EVT-0012,Mid-year school break,school_break,,Lideta,2025-02-03 00:00:00+03:00,2025-02-14 23:59:00+03:00,2025-02-03 00:00:00+03:00,2025-02-14 23:59:00+03:00,,confirmed
+EVT-0012,Mid-year school break,school_break,,Megenagna,2025-02-03 00:00:00+03:00,2025-02-14 23:59:00+03:00,2025-02-03 00:00:00+03:00,2025-02-14 23:59:00+03:00,,confirmed
+EVT-0012,Mid-year school break,school_break,,Merkato,2025-02-03 00:00:00+03:00,2025-02-14 23:59:00+03:00,2025-02-03 00:00:00+03:00,2025-02-14 23:59:00+03:00,,confirmed
+EVT-0012,Mid-year school break,school_break,,Piassa,2025-02-03 00:00:00+03:00,2025-02-14 23:59:00+03:00,2025-02-03 00:00:00+03:00,2025-02-14 23:59:00+03:00,,confirmed
+EVT-0012,Mid-year school break,school_break,,Sarbet,2025-02-03 00:00:00+03:00,2025-02-14 23:59:00+03:00,2025-02-03 00:00:00+03:00,2025-02-14 23:59:00+03:00,,confirmed
+EVT-0077,Conference: Education forum,conference,UN conference centre,Kazanchis,2025-05-27 08:00:00+03:00,2025-05-27 17:00:00+03:00,2025-05-27 08:00:00+03:00,2025-05-27 17:00:00+03:00,3561.0,confirmed
+EVT-0058,Premier league match,football_match,Addis Ababa Stadium,Kazanchis,2025-05-03 15:00:00+03:00,2025-05-03 17:00:00+03:00,2025-05-03 13:00:00+03:00,2025-05-03 19:00:00+03:00,32897.0,cancelled
+EVT-0096,Summer school break,school_break,,Arat Kilo,2025-07-07 00:00:00+03:00,2025-08-31 23:59:00+03:00,2025-07-07 00:00:00+03:00,2025-08-31 23:59:00+03:00,,confirmed
+EVT-0096,Summer school break,school_break,,Ayat,2025-07-07 00:00:00+03:00,2025-08-31 23:59:00+03:00,2025-07-07 00:00:00+03:00,2025-08-31 23:59:00+03:00,,confirmed
+EVT-0096,Summer school break,school_break,,Bole,2025-07-07 00:00:00+03:00,2025-08-31 23:59:00+03:00,2025-07-07 00:00:00+03:00,2025-08-31 23:59:00+03:00,,confirmed
+EVT-0096,Summer school break,school_break,,CMC,2025-07-07 00:00:00+03:00,2025-08-31 23:59:00+03:00,2025-07-07 00:00:00+03:00,2025-08-31 23:59:00+03:00,,confirmed
+EVT-0096,Summer school break,school_break,,Gerji,2025-07-07 00:00:00+03:00,2025-08-31 23:59:00+03:00,2025-07-07 00:00:00+03:00,2025-08-31 23:59:00+03:00,,confirmed
+EVT-0096,Summer school break,school_break,,Kazanchis,2025-07-07 00:00:00+03:00,2025-08-31 23:59:00+03:00,2025-07-07 00:00:00+03:00,2025-08-31 23:59:00+03:00,,confirmed
+EVT-0096,Summer school break,school_break,,Kolfe,2025-07-07 00:00:00+03:00,2025-08-31 23:59:00+03:00,2025-07-07 00:00:00+03:00,2025-08-31 23:59:00+03:00,,confirmed
+EVT-0096,Summer school break,school_break,,Lideta,2025-07-07 00:00:00+03:00,2025-08-31 23:59:00+03:00,2025-07-07 00:00:00+03:00,2025-08-31 23:59:00+03:00,,confirmed
+EVT-0096,Summer school break,school_break,,Megenagna,2025-07-07 00:00:00+03:00,2025-08-31 23:59:00+03:00,2025-07-07 00:00:00+03:00,2025-08-31 23:59:00+03:00,,confirmed
+EVT-0096,Summer school break,school_break,,Merkato,2025-07-07 00:00:00+03:00,2025-08-31 23:59:00+03:00,2025-07-07 00:00:00+03:00,2025-08-31 23:59:00+03:00,,confirmed
+EVT-0096,Summer school break,school_break,,Piassa,2025-07-07 00:00:00+03:00,2025-08-31 23:59:00+03:00,2025-07-07 00:00:00+03:00,2025-08-31 23:59:00+03:00,,confirmed
+EVT-0096,Summer school break,school_break,,Sarbet,2025-07-07 00:00:00+03:00,2025-08-31 23:59:00+03:00,2025-07-07 00:00:00+03:00,2025-08-31 23:59:00+03:00,,confirmed
+EVT-0088,Premier league match,football_match,Addis Ababa Stadium,Kazanchis,2025-06-21 15:00:00+03:00,2025-06-21 17:00:00+03:00,2025-06-21 13:00:00+03:00,2025-06-21 19:00:00+03:00,,confirmed
+EVT-0034,Premier league match,football_match,Addis Ababa Stadium,Kazanchis,2025-03-18 19:00:00+03:00,2025-03-18 21:00:00+03:00,2025-03-18 17:00:00+03:00,2025-03-18 23:00:00+03:00,14008.0,confirmed
+EVT-0150,Live concert,concert,Millennium Hall,Bole,2025-10-26 19:00:00+03:00,2025-10-26 23:00:00+03:00,2025-10-26 18:00:00+03:00,2025-10-27 01:00:00+03:00,6200.0,confirmed
+EVT-0122,Conference: Tech expo talks,conference,UN conference centre,Kazanchis,2025-09-12 08:00:00+03:00,2025-09-12 17:00:00+03:00,2025-09-12 08:00:00+03:00,2025-09-12 17:00:00+03:00,4828.0,confirmed
+EVT-0037,Road closure (construction),road_closure,,Megenagna,2025-03-22 12:00:00+03:00,2025-03-23 02:00:00+03:00,2025-03-22 12:00:00+03:00,2025-03-23 02:00:00+03:00,,confirmed
+EVT-0083,Premier league match,football_match,Addis Ababa Stadium,Kazanchis,2025-06-08 15:00:00+03:00,2025-06-08 17:00:00+03:00,2025-06-08 13:00:00+03:00,2025-06-08 19:00:00+03:00,31083.0,confirmed
+EVT-0033,Conference: Tech expo talks,conference,UN conference centre,Kazanchis,2025-03-18 08:00:00+03:00,2025-03-18 17:00:00+03:00,2025-03-18 08:00:00+03:00,2025-03-18 17:00:00+03:00,375.0,confirmed
+EVT-0117,Live concert,concert,Millennium Hall,Bole,2025-09-06 20:00:00+03:00,2025-09-06 23:00:00+03:00,2025-09-06 19:00:00+03:00,2025-09-07 01:00:00+03:00,3744.0,confirmed
+EVT-0076,Live concert,concert,Millennium Hall,Bole,2025-05-24 20:00:00+03:00,2025-05-25 00:00:00+03:00,2025-05-24 19:00:00+03:00,2025-05-25 02:00:00+03:00,9330.0,confirmed
+EVT-0015,Live concert,concert,Millennium Hall,Bole,2025-02-08 19:00:00+03:00,2025-02-08 23:00:00+03:00,2025-02-08 18:00:00+03:00,2025-02-09 01:00:00+03:00,8100.0,confirmed
+EVT-0142,Live concert,concert,Millennium Hall,Bole,2025-10-16 19:00:00+03:00,2025-10-16 23:00:00+03:00,2025-10-16 18:00:00+03:00,2025-10-17 01:00:00+03:00,,confirmed
+EVT-0111,Trade exhibition,exhibition,Exhibition centre,Bole,2025-08-23 10:00:00+03:00,2025-08-27 18:00:00+03:00,2025-08-23 10:00:00+03:00,2025-08-27 18:00:00+03:00,9100.0,confirmed
+EVT-0017,Premier league match,football_match,Addis Ababa Stadium,Kazanchis,2025-02-15 15:00:00+03:00,2025-02-15 17:00:00+03:00,2025-02-15 13:00:00+03:00,2025-02-15 19:00:00+03:00,16665.0,confirmed
+EVT-0144,Road closure (construction),road_closure,,CMC,2025-10-17 08:00:00+03:00,2025-10-17 18:00:00+03:00,2025-10-17 08:00:00+03:00,2025-10-17 18:00:00+03:00,,confirmed
+EVT-0097,Live concert,concert,Millennium Hall,Bole,2025-07-12 19:00:00+03:00,2025-07-12 23:00:00+03:00,2025-07-12 18:00:00+03:00,2025-07-13 01:00:00+03:00,6522.0,confirmed
+EVT-0082,Trade exhibition,exhibition,Exhibition centre,Bole,2025-06-08 10:00:00+03:00,2025-06-11 18:00:00+03:00,2025-06-08 10:00:00+03:00,2025-06-11 18:00:00+03:00,7756.0,confirmed
+EVT-0049,Road closure (construction),road_closure,,Ayat,2025-04-21 08:00:00+03:00,2025-04-21 18:00:00+03:00,2025-04-21 08:00:00+03:00,2025-04-21 18:00:00+03:00,,confirmed
+EVT-0049,Road closure (construction),road_closure,,Lideta,2025-04-21 08:00:00+03:00,2025-04-21 18:00:00+03:00,2025-04-21 08:00:00+03:00,2025-04-21 18:00:00+03:00,,confirmed
+EVT-0146,Premier league match,football_match,Addis Ababa Stadium,Kazanchis,2025-10-18 15:00:00+03:00,2025-10-18 17:00:00+03:00,2025-10-18 13:00:00+03:00,2025-10-18 19:00:00+03:00,23019.0,confirmed
+EVT-0108,Road closure (construction),road_closure,,Piassa,2025-08-18 14:00:00+03:00,2025-08-19 02:00:00+03:00,2025-08-18 14:00:00+03:00,2025-08-19 02:00:00+03:00,,confirmed
+EVT-0043,Conference: Education forum,conference,City hotel,Piassa,2025-04-03 08:00:00+03:00,2025-04-03 17:00:00+03:00,2025-04-03 08:00:00+03:00,2025-04-03 17:00:00+03:00,4276.0,confirmed
+EVT-0042,Conference: Health congress,conference,UN conference centre,Kazanchis,2025-04-03 08:00:00+03:00,2025-04-03 17:00:00+03:00,2025-04-03 08:00:00+03:00,2025-04-03 17:00:00+03:00,4061.0,cancelled
+EVT-0128,Live concert,concert,Millennium Hall,Bole,2025-09-27 20:00:00+03:00,2025-09-28 00:00:00+03:00,2025-09-27 19:00:00+03:00,2025-09-28 02:00:00+03:00,7089.0,confirmed
+EVT-0062,Road closure (construction),road_closure,,Arat Kilo,2025-05-08 08:00:00+03:00,2025-05-08 18:00:00+03:00,2025-05-08 08:00:00+03:00,2025-05-08 18:00:00+03:00,,confirmed
+EVT-0099,Live concert,concert,Millennium Hall,Bole,2025-07-28 20:00:00+03:00,2025-07-29 00:00:00+03:00,2025-07-28 19:00:00+03:00,2025-07-29 02:00:00+03:00,10975.0,cancelled
+EVT-0051,Live concert,concert,Millennium Hall,Bole,2025-04-21 19:00:00+03:00,2025-04-21 23:00:00+03:00,2025-04-21 18:00:00+03:00,2025-04-22 01:00:00+03:00,3200.0,confirmed
+EVT-0030,Road closure (construction),road_closure,,CMC,2025-03-11 08:00:00+03:00,2025-03-11 18:00:00+03:00,2025-03-11 08:00:00+03:00,2025-03-11 18:00:00+03:00,,confirmed
+EVT-0067,Premier league match,football_match,Addis Ababa Stadium,Kazanchis,2025-05-13 19:00:00+03:00,2025-05-13 21:00:00+03:00,2025-05-13 17:00:00+03:00,2025-05-13 23:00:00+03:00,,confirmed
+EVT-0103,Live concert,concert,Millennium Hall,Bole,2025-08-10 19:00:00+03:00,2025-08-10 23:00:00+03:00,2025-08-10 18:00:00+03:00,2025-08-11 01:00:00+03:00,10640.0,confirmed
+EVT-0047,Live concert,concert,Millennium Hall,Bole,2025-04-19 20:00:00+03:00,2025-04-20 00:00:00+03:00,2025-04-19 19:00:00+03:00,2025-04-20 02:00:00+03:00,11610.0,confirmed
+EVT-0016,Premier league match,football_match,Addis Ababa Stadium,Kazanchis,2025-02-10 19:00:00+03:00,2025-02-10 21:00:00+03:00,2025-02-10 17:00:00+03:00,2025-02-10 23:00:00+03:00,26870.0,confirmed
+EVT-0072,Conference: Agriculture summit,conference,UN conference centre,Kazanchis,2025-05-22 08:00:00+03:00,2025-05-22 17:00:00+03:00,2025-05-22 08:00:00+03:00,2025-05-22 17:00:00+03:00,4383.0,confirmed
+EVT-0078,Downfall of the Derg,public_holiday,,Arat Kilo,2025-05-28 00:00:00+03:00,2025-05-28 23:59:00+03:00,2025-05-28 00:00:00+03:00,2025-05-28 23:59:00+03:00,,confirmed
+EVT-0078,Downfall of the Derg,public_holiday,,Ayat,2025-05-28 00:00:00+03:00,2025-05-28 23:59:00+03:00,2025-05-28 00:00:00+03:00,2025-05-28 23:59:00+03:00,,confirmed
+EVT-0078,Downfall of the Derg,public_holiday,,Bole,2025-05-28 00:00:00+03:00,2025-05-28 23:59:00+03:00,2025-05-28 00:00:00+03:00,2025-05-28 23:59:00+03:00,,confirmed
+EVT-0078,Downfall of the Derg,public_holiday,,CMC,2025-05-28 00:00:00+03:00,2025-05-28 23:59:00+03:00,2025-05-28 00:00:00+03:00,2025-05-28 23:59:00+03:00,,confirmed
+EVT-0078,Downfall of the Derg,public_holiday,,Gerji,2025-05-28 00:00:00+03:00,2025-05-28 23:59:00+03:00,2025-05-28 00:00:00+03:00,2025-05-28 23:59:00+03:00,,confirmed
+EVT-0078,Downfall of the Derg,public_holiday,,Kazanchis,2025-05-28 00:00:00+03:00,2025-05-28 23:59:00+03:00,2025-05-28 00:00:00+03:00,2025-05-28 23:59:00+03:00,,confirmed
+EVT-0078,Downfall of the Derg,public_holiday,,Kolfe,2025-05-28 00:00:00+03:00,2025-05-28 23:59:00+03:00,2025-05-28 00:00:00+03:00,2025-05-28 23:59:00+03:00,,confirmed
+EVT-0078,Downfall of the Derg,public_holiday,,Lideta,2025-05-28 00:00:00+03:00,2025-05-28 23:59:00+03:00,2025-05-28 00:00:00+03:00,2025-05-28 23:59:00+03:00,,confirmed
+EVT-0078,Downfall of the Derg,public_holiday,,Megenagna,2025-05-28 00:00:00+03:00,2025-05-28 23:59:00+03:00,2025-05-28 00:00:00+03:00,2025-05-28 23:59:00+03:00,,confirmed
+EVT-0078,Downfall of the Derg,public_holiday,,Merkato,2025-05-28 00:00:00+03:00,2025-05-28 23:59:00+03:00,2025-05-28 00:00:00+03:00,2025-05-28 23:59:00+03:00,,confirmed
+EVT-0078,Downfall of the Derg,public_holiday,,Piassa,2025-05-28 00:00:00+03:00,2025-05-28 23:59:00+03:00,2025-05-28 00:00:00+03:00,2025-05-28 23:59:00+03:00,,confirmed
+EVT-0078,Downfall of the Derg,public_holiday,,Sarbet,2025-05-28 00:00:00+03:00,2025-05-28 23:59:00+03:00,2025-05-28 00:00:00+03:00,2025-05-28 23:59:00+03:00,,confirmed
+EVT-0116,Road closure (construction),road_closure,,Arat Kilo,2025-09-04 03:00:00+03:00,2025-09-04 22:00:00+03:00,2025-09-04 03:00:00+03:00,2025-09-04 22:00:00+03:00,,confirmed
+EVT-0116,Road closure (construction),road_closure,,Sarbet,2025-09-04 03:00:00+03:00,2025-09-04 22:00:00+03:00,2025-09-04 03:00:00+03:00,2025-09-04 22:00:00+03:00,,confirmed
+EVT-0109,Live concert,concert,Millennium Hall,Bole,2025-08-20 19:00:00+03:00,2025-08-20 23:00:00+03:00,2025-08-20 18:00:00+03:00,2025-08-21 01:00:00+03:00,7794.0,confirmed
+EVT-0154,Premier league match,football_match,Addis Ababa Stadium,Kazanchis,2025-11-03 19:00:00+03:00,2025-11-03 21:00:00+03:00,2025-11-03 17:00:00+03:00,2025-11-03 23:00:00+03:00,32000.0,confirmed
+EVT-0110,Premier league match,football_match,Addis Ababa Stadium,Kazanchis,2025-08-22 19:00:00+03:00,2025-08-22 21:00:00+03:00,2025-08-22 17:00:00+03:00,2025-08-22 23:00:00+03:00,10500.0,confirmed
+EVT-0002,Conference: Energy conference,conference,UN conference centre,Kazanchis,2025-01-09 08:00:00+03:00,2025-01-09 17:00:00+03:00,2025-01-09 08:00:00+03:00,2025-01-09 17:00:00+03:00,2290.0,confirmed
+EVT-0065,Live concert,concert,Millennium Hall,Bole,2025-05-10 19:00:00+03:00,2025-05-10 23:00:00+03:00,2025-05-10 18:00:00+03:00,2025-05-11 01:00:00+03:00,,confirmed
+EVT-0073,Live concert,concert,Millennium Hall,Bole,2025-05-22 19:00:00+03:00,2025-05-22 23:00:00+03:00,2025-05-22 18:00:00+03:00,2025-05-23 01:00:00+03:00,5719.0,confirmed
+EVT-0124,Live concert,concert,Millennium Hall,Bole,2025-09-20 20:00:00+03:00,2025-09-21 00:00:00+03:00,2025-09-20 19:00:00+03:00,2025-09-21 02:00:00+03:00,7316.0,confirmed
+EVT-0135,Road closure (construction),road_closure,,Kazanchis,2025-10-07 15:00:00+03:00,2025-10-08 09:00:00+03:00,2025-10-07 15:00:00+03:00,2025-10-08 09:00:00+03:00,,confirmed
+EVT-0135,Road closure (construction),road_closure,,Lideta,2025-10-07 15:00:00+03:00,2025-10-08 09:00:00+03:00,2025-10-07 15:00:00+03:00,2025-10-08 09:00:00+03:00,,confirmed
+EVT-0136,Premier league match,football_match,Addis Ababa Stadium,Kazanchis,2025-10-08 19:00:00+03:00,2025-10-08 21:00:00+03:00,2025-10-08 17:00:00+03:00,2025-10-08 23:00:00+03:00,,confirmed
+EVT-0031,Conference: Tech expo talks,conference,Convention hall,Bole,2025-03-12 08:00:00+03:00,2025-03-12 17:00:00+03:00,2025-03-12 08:00:00+03:00,2025-03-12 17:00:00+03:00,2624.0,confirmed
+EVT-0145,Trade exhibition,exhibition,Exhibition centre,Bole,2025-10-18 10:00:00+03:00,2025-10-22 18:00:00+03:00,2025-10-18 10:00:00+03:00,2025-10-22 18:00:00+03:00,1418.0,confirmed
+EVT-0006,Road closure (construction),road_closure,,Kolfe,2025-01-21 15:00:00+03:00,2025-01-22 06:00:00+03:00,2025-01-21 15:00:00+03:00,2025-01-22 06:00:00+03:00,,confirmed
+EVT-0075,Road closure (construction),road_closure,,Ayat,2025-05-24 09:00:00+03:00,2025-05-25 09:00:00+03:00,2025-05-24 09:00:00+03:00,2025-05-25 09:00:00+03:00,,confirmed
+EVT-0153,Premier league match,football_match,Addis Ababa Stadium,Kazanchis,2025-11-02 15:00:00+03:00,2025-11-02 17:00:00+03:00,2025-11-02 13:00:00+03:00,2025-11-02 19:00:00+03:00,15207.0,confirmed
+EVT-0053,Live concert,concert,Millennium Hall,Bole,2025-04-26 19:00:00+03:00,2025-04-26 23:00:00+03:00,2025-04-26 18:00:00+03:00,2025-04-27 01:00:00+03:00,10666.0,confirmed
+EVT-0100,Premier league match,football_match,Addis Ababa Stadium,Kazanchis,2025-08-09 15:00:00+03:00,2025-08-09 17:00:00+03:00,2025-08-09 13:00:00+03:00,2025-08-09 19:00:00+03:00,25227.0,confirmed
+EVT-0005,Live concert,concert,Millennium Hall,Bole,2025-01-19 19:00:00+03:00,2025-01-19 23:00:00+03:00,2025-01-19 18:00:00+03:00,2025-01-20 01:00:00+03:00,5514.0,confirmed
+EVT-0156,Community fun run,sports_run,Meskel Square,Kazanchis,2025-11-09 06:00:00+03:00,2025-11-09 11:00:00+03:00,2025-11-09 05:00:00+03:00,2025-11-09 12:00:00+03:00,17716.0,confirmed
+EVT-0158,Road closure (construction),road_closure,,Megenagna,2025-11-10 02:00:00+03:00,2025-11-10 22:00:00+03:00,2025-11-10 02:00:00+03:00,2025-11-10 22:00:00+03:00,,confirmed
+EVT-0064,Premier league match,football_match,Addis Ababa Stadium,Kazanchis,2025-05-10 15:00:00+03:00,2025-05-10 17:00:00+03:00,2025-05-10 13:00:00+03:00,2025-05-10 19:00:00+03:00,18964.0,confirmed
+EVT-0059,Road closure (construction),road_closure,,Ayat,2025-05-04 08:00:00+03:00,2025-05-04 18:00:00+03:00,2025-05-04 08:00:00+03:00,2025-05-04 18:00:00+03:00,,confirmed
+EVT-0105,Conference: Health congress,conference,UN conference centre,Kazanchis,2025-08-13 08:00:00+03:00,2025-08-13 17:00:00+03:00,2025-08-13 08:00:00+03:00,2025-08-13 17:00:00+03:00,1438.0,confirmed
+EVT-0050,Conference: Energy conference,conference,City hotel,Piassa,2025-04-21 08:00:00+03:00,2025-04-21 17:00:00+03:00,2025-04-21 08:00:00+03:00,2025-04-21 17:00:00+03:00,4593.0,confirmed
+EVT-0138,Premier league match,football_match,Addis Ababa Stadium,Kazanchis,2025-10-11 15:00:00+03:00,2025-10-11 17:00:00+03:00,2025-10-11 13:00:00+03:00,2025-10-11 19:00:00+03:00,31500.0,confirmed
+EVT-0120,Premier league match,football_match,Addis Ababa Stadium,Kazanchis,2025-09-10 19:00:00+03:00,2025-09-10 21:00:00+03:00,2025-09-10 17:00:00+03:00,2025-09-10 23:00:00+03:00,27732.0,confirmed
+EVT-0140,Premier league match,football_match,Addis Ababa Stadium,Kazanchis,2025-10-12 15:00:00+03:00,2025-10-12 17:00:00+03:00,2025-10-12 13:00:00+03:00,2025-10-12 19:00:00+03:00,9911.0,confirmed
+EVT-0019,Conference: Tech expo talks,conference,UN conference centre,Kazanchis,2025-02-20 08:00:00+03:00,2025-02-20 17:00:00+03:00,2025-02-20 08:00:00+03:00,2025-02-20 17:00:00+03:00,2723.0,confirmed
+EVT-0121,Enkutatash (Ethiopian New Year),public_holiday,,Arat Kilo,2025-09-11 00:00:00+03:00,2025-09-11 23:59:00+03:00,2025-09-11 00:00:00+03:00,2025-09-11 23:59:00+03:00,,confirmed
+EVT-0121,Enkutatash (Ethiopian New Year),public_holiday,,Ayat,2025-09-11 00:00:00+03:00,2025-09-11 23:59:00+03:00,2025-09-11 00:00:00+03:00,2025-09-11 23:59:00+03:00,,confirmed
+EVT-0121,Enkutatash (Ethiopian New Year),public_holiday,,Bole,2025-09-11 00:00:00+03:00,2025-09-11 23:59:00+03:00,2025-09-11 00:00:00+03:00,2025-09-11 23:59:00+03:00,,confirmed
+EVT-0121,Enkutatash (Ethiopian New Year),public_holiday,,CMC,2025-09-11 00:00:00+03:00,2025-09-11 23:59:00+03:00,2025-09-11 00:00:00+03:00,2025-09-11 23:59:00+03:00,,confirmed
+EVT-0121,Enkutatash (Ethiopian New Year),public_holiday,,Gerji,2025-09-11 00:00:00+03:00,2025-09-11 23:59:00+03:00,2025-09-11 00:00:00+03:00,2025-09-11 23:59:00+03:00,,confirmed
+EVT-0121,Enkutatash (Ethiopian New Year),public_holiday,,Kazanchis,2025-09-11 00:00:00+03:00,2025-09-11 23:59:00+03:00,2025-09-11 00:00:00+03:00,2025-09-11 23:59:00+03:00,,confirmed
+EVT-0121,Enkutatash (Ethiopian New Year),public_holiday,,Kolfe,2025-09-11 00:00:00+03:00,2025-09-11 23:59:00+03:00,2025-09-11 00:00:00+03:00,2025-09-11 23:59:00+03:00,,confirmed
+EVT-0121,Enkutatash (Ethiopian New Year),public_holiday,,Lideta,2025-09-11 00:00:00+03:00,2025-09-11 23:59:00+03:00,2025-09-11 00:00:00+03:00,2025-09-11 23:59:00+03:00,,confirmed
+EVT-0121,Enkutatash (Ethiopian New Year),public_holiday,,Megenagna,2025-09-11 00:00:00+03:00,2025-09-11 23:59:00+03:00,2025-09-11 00:00:00+03:00,2025-09-11 23:59:00+03:00,,confirmed
+EVT-0121,Enkutatash (Ethiopian New Year),public_holiday,,Merkato,2025-09-11 00:00:00+03:00,2025-09-11 23:59:00+03:00,2025-09-11 00:00:00+03:00,2025-09-11 23:59:00+03:00,,confirmed
+EVT-0121,Enkutatash (Ethiopian New Year),public_holiday,,Piassa,2025-09-11 00:00:00+03:00,2025-09-11 23:59:00+03:00,2025-09-11 00:00:00+03:00,2025-09-11 23:59:00+03:00,,confirmed
+EVT-0121,Enkutatash (Ethiopian New Year),public_holiday,,Sarbet,2025-09-11 00:00:00+03:00,2025-09-11 23:59:00+03:00,2025-09-11 00:00:00+03:00,2025-09-11 23:59:00+03:00,,confirmed
+EVT-0125,Premier league match,football_match,Addis Ababa Stadium,Kazanchis,2025-09-24 19:00:00+03:00,2025-09-24 21:00:00+03:00,2025-09-24 17:00:00+03:00,2025-09-24 23:00:00+03:00,23660.0,confirmed
+EVT-0129,Premier league match,football_match,Addis Ababa Stadium,Kazanchis,2025-09-28 15:00:00+03:00,2025-09-28 17:00:00+03:00,2025-09-28 13:00:00+03:00,2025-09-28 19:00:00+03:00,22720.0,confirmed
+EVT-0092,Conference: Health congress,conference,Convention hall,Bole,2025-06-27 08:00:00+03:00,2025-06-27 17:00:00+03:00,2025-06-27 08:00:00+03:00,2025-06-27 17:00:00+03:00,3212.0,confirmed
+EVT-0118,Conference: Tech expo talks,conference,UN conference centre,Kazanchis,2025-09-09 08:00:00+03:00,2025-09-09 17:00:00+03:00,2025-09-09 08:00:00+03:00,2025-09-09 17:00:00+03:00,,confirmed
+EVT-0041,Conference: Health congress,conference,UN conference centre,Kazanchis,2025-04-02 08:00:00+03:00,2025-04-02 17:00:00+03:00,2025-04-02 08:00:00+03:00,2025-04-02 17:00:00+03:00,4730.0,confirmed
+EVT-0060,Premier league match,football_match,Addis Ababa Stadium,Kazanchis,2025-05-04 15:00:00+03:00,2025-05-04 17:00:00+03:00,2025-05-04 13:00:00+03:00,2025-05-04 19:00:00+03:00,,confirmed
+EVT-0023,Adwa Victory Day,public_holiday,,Arat Kilo,2025-03-02 00:00:00+03:00,2025-03-02 23:59:00+03:00,2025-03-02 00:00:00+03:00,2025-03-02 23:59:00+03:00,,confirmed
+EVT-0023,Adwa Victory Day,public_holiday,,Ayat,2025-03-02 00:00:00+03:00,2025-03-02 23:59:00+03:00,2025-03-02 00:00:00+03:00,2025-03-02 23:59:00+03:00,,confirmed
+EVT-0023,Adwa Victory Day,public_holiday,,Bole,2025-03-02 00:00:00+03:00,2025-03-02 23:59:00+03:00,2025-03-02 00:00:00+03:00,2025-03-02 23:59:00+03:00,,confirmed
+EVT-0023,Adwa Victory Day,public_holiday,,CMC,2025-03-02 00:00:00+03:00,2025-03-02 23:59:00+03:00,2025-03-02 00:00:00+03:00,2025-03-02 23:59:00+03:00,,confirmed
+EVT-0023,Adwa Victory Day,public_holiday,,Gerji,2025-03-02 00:00:00+03:00,2025-03-02 23:59:00+03:00,2025-03-02 00:00:00+03:00,2025-03-02 23:59:00+03:00,,confirmed
+EVT-0023,Adwa Victory Day,public_holiday,,Kazanchis,2025-03-02 00:00:00+03:00,2025-03-02 23:59:00+03:00,2025-03-02 00:00:00+03:00,2025-03-02 23:59:00+03:00,,confirmed
+EVT-0023,Adwa Victory Day,public_holiday,,Kolfe,2025-03-02 00:00:00+03:00,2025-03-02 23:59:00+03:00,2025-03-02 00:00:00+03:00,2025-03-02 23:59:00+03:00,,confirmed
+EVT-0023,Adwa Victory Day,public_holiday,,Lideta,2025-03-02 00:00:00+03:00,2025-03-02 23:59:00+03:00,2025-03-02 00:00:00+03:00,2025-03-02 23:59:00+03:00,,confirmed
+EVT-0023,Adwa Victory Day,public_holiday,,Megenagna,2025-03-02 00:00:00+03:00,2025-03-02 23:59:00+03:00,2025-03-02 00:00:00+03:00,2025-03-02 23:59:00+03:00,,confirmed
+EVT-0023,Adwa Victory Day,public_holiday,,Merkato,2025-03-02 00:00:00+03:00,2025-03-02 23:59:00+03:00,2025-03-02 00:00:00+03:00,2025-03-02 23:59:00+03:00,,confirmed
+EVT-0023,Adwa Victory Day,public_holiday,,Piassa,2025-03-02 00:00:00+03:00,2025-03-02 23:59:00+03:00,2025-03-02 00:00:00+03:00,2025-03-02 23:59:00+03:00,,confirmed
+EVT-0023,Adwa Victory Day,public_holiday,,Sarbet,2025-03-02 00:00:00+03:00,2025-03-02 23:59:00+03:00,2025-03-02 00:00:00+03:00,2025-03-02 23:59:00+03:00,,confirmed
+EVT-0066,Premier league match,football_match,Addis Ababa Stadium,Kazanchis,2025-05-13 18:00:00+03:00,2025-05-13 20:00:00+03:00,2025-05-13 16:00:00+03:00,2025-05-13 22:00:00+03:00,30176.0,confirmed
+EVT-0126,Meskel (Finding of the True Cross),public_holiday,,Arat Kilo,2025-09-27 00:00:00+03:00,2025-09-27 23:59:00+03:00,2025-09-27 00:00:00+03:00,2025-09-27 23:59:00+03:00,,confirmed
+EVT-0126,Meskel (Finding of the True Cross),public_holiday,,Ayat,2025-09-27 00:00:00+03:00,2025-09-27 23:59:00+03:00,2025-09-27 00:00:00+03:00,2025-09-27 23:59:00+03:00,,confirmed
+EVT-0126,Meskel (Finding of the True Cross),public_holiday,,Bole,2025-09-27 00:00:00+03:00,2025-09-27 23:59:00+03:00,2025-09-27 00:00:00+03:00,2025-09-27 23:59:00+03:00,,confirmed
+EVT-0126,Meskel (Finding of the True Cross),public_holiday,,CMC,2025-09-27 00:00:00+03:00,2025-09-27 23:59:00+03:00,2025-09-27 00:00:00+03:00,2025-09-27 23:59:00+03:00,,confirmed
+EVT-0126,Meskel (Finding of the True Cross),public_holiday,,Gerji,2025-09-27 00:00:00+03:00,2025-09-27 23:59:00+03:00,2025-09-27 00:00:00+03:00,2025-09-27 23:59:00+03:00,,confirmed
+EVT-0126,Meskel (Finding of the True Cross),public_holiday,,Kazanchis,2025-09-27 00:00:00+03:00,2025-09-27 23:59:00+03:00,2025-09-27 00:00:00+03:00,2025-09-27 23:59:00+03:00,,confirmed
+EVT-0126,Meskel (Finding of the True Cross),public_holiday,,Kolfe,2025-09-27 00:00:00+03:00,2025-09-27 23:59:00+03:00,2025-09-27 00:00:00+03:00,2025-09-27 23:59:00+03:00,,confirmed
+EVT-0126,Meskel (Finding of the True Cross),public_holiday,,Lideta,2025-09-27 00:00:00+03:00,2025-09-27 23:59:00+03:00,2025-09-27 00:00:00+03:00,2025-09-27 23:59:00+03:00,,confirmed
+EVT-0126,Meskel (Finding of the True Cross),public_holiday,,Megenagna,2025-09-27 00:00:00+03:00,2025-09-27 23:59:00+03:00,2025-09-27 00:00:00+03:00,2025-09-27 23:59:00+03:00,,confirmed
+EVT-0126,Meskel (Finding of the True Cross),public_holiday,,Merkato,2025-09-27 00:00:00+03:00,2025-09-27 23:59:00+03:00,2025-09-27 00:00:00+03:00,2025-09-27 23:59:00+03:00,,confirmed
+EVT-0126,Meskel (Finding of the True Cross),public_holiday,,Piassa,2025-09-27 00:00:00+03:00,2025-09-27 23:59:00+03:00,2025-09-27 00:00:00+03:00,2025-09-27 23:59:00+03:00,,confirmed
+EVT-0126,Meskel (Finding of the True Cross),public_holiday,,Sarbet,2025-09-27 00:00:00+03:00,2025-09-27 23:59:00+03:00,2025-09-27 00:00:00+03:00,2025-09-27 23:59:00+03:00,,confirmed
+EVT-0151,Live concert,concert,Millennium Hall,Bole,2025-10-26 20:00:00+03:00,2025-10-27 00:00:00+03:00,2025-10-26 19:00:00+03:00,2025-10-27 02:00:00+03:00,6449.0,confirmed
+EVT-0057,Trade exhibition,exhibition,Exhibition centre,Bole,2025-05-03 10:00:00+03:00,2025-05-07 18:00:00+03:00,2025-05-03 10:00:00+03:00,2025-05-07 18:00:00+03:00,,confirmed
+EVT-0093,Premier league match,football_match,Addis Ababa Stadium,Kazanchis,2025-06-29 15:00:00+03:00,2025-06-29 17:00:00+03:00,2025-06-29 13:00:00+03:00,2025-06-29 19:00:00+03:00,8339.0,confirmed
+EVT-0127,Premier league match,football_match,Addis Ababa Stadium,Kazanchis,2025-09-27 15:00:00+03:00,2025-09-27 17:00:00+03:00,2025-09-27 13:00:00+03:00,2025-09-27 19:00:00+03:00,,confirmed

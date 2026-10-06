@@ -1,0 +1,15 @@
+name,formula,source,why,known_at_forecast_time,group
+hour,hour of pickup_hour_eat,pickup_hour_eat,Demand has strong daily seasonality,yes,calendar
+dow,day of week 0=Mon … 6=Sun,pickup_hour_eat,Weekday vs weekend patterns differ by zone,yes,calendar
+is_weekend,"1 if dow in {5,6}",dow,"Weekend demand shifts (markets, leisure)",yes,calendar
+is_payday_window,1 if day_of_month <=3 or >=28,pickup_hour_eat,Pay-period spending may lift trips,yes,calendar
+is_public_holiday,1 if hour overlaps a confirmed public_holiday window,events,Holidays change city-wide demand,yes,calendar
+rain_mm,cleaned rain in the hour,weather.rain_mm,Rain often increases ride requests,yes,weather
+rain_last_3h,rain_mm + lag1 + lag2 (by city hour),weather.rain_mm,Wet conditions persist beyond a single hour,yes,weather
+rain_class,0 none / 1 light / 2 moderate / 3 heavy,rain_mm,Non-linear rain response,yes,weather
+in_event_window,1 if any confirmed event window covers the hour,events,Events create local demand spikes,yes,events
+is_football_window,1 if football_match window (±2h) covers the hour,events,Matches are among the largest local shocks,yes,events
+hours_to_event_start,hours until nearest matching event start (NaN if none),events.start_eat,Pre-event arrival traffic differs from during/after,yes,events
+event_attendance,max expected attendance among matching events,events.expected_attendance,Bigger crowds → bigger demand lift,yes,events
+trips_lag_168,same zone trips 168 hours earlier (1 week),trips,Weekly seasonality baseline per zone-hour,yes,lag
+trend_day,days since 2025-01-01,pickup_hour_eat,Captures gradual growth through the year,yes,lag

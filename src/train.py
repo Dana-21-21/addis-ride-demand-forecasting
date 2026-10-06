@@ -20,4 +20,4 @@ def load_model(path: Path | None = None):
     return joblib.load(path)
 
 
-# TODO: baselines, LightGBM training, rolling-origin validation, ablation
+# Training / validation live in `src/modeling.py` and `notebooks/04_modeling_and_evaluation.ipynb`.

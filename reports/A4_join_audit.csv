@@ -1,0 +1,2 @@
+train_rows_before,train_rows_after_weather,weather_match_rate_pct,zone_hours_no_weather_before_fill,confirmed_event_ids,cancelled_event_rows,events_matched_ge1,events_unmatched
+84614,84614,89.07,9249,159,6,151,8

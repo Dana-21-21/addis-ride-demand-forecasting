@@ -1,0 +1,13 @@
+[PASS] train one row per zone-hour
+[PASS] test one row per zone-hour
+[PASS] train row count unchanged by joins
+[PASS] test row count unchanged by joins
+[PASS] only 12 canonical zones (train)
+[PASS] only 12 canonical zones (test)
+[PASS] no negative trips left
+[PASS] no rain sentinel -9999
+[PASS] timestamps on Africa/Addis_Ababa
+[PASS] train has all engineered features
+[PASS] test has all engineered features
+[PASS] test has no target column
+[PASS] no ops leakage features in model feature list

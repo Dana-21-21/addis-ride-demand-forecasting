@@ -17,4 +17,4 @@ def write_submission(row_ids, predicted_trips, team_name: str = "NAME") -> Path:
     return path
 
 
-# TODO: load master_test + model, predict, clip negatives to 0
+# Prediction pipeline lives in `src/modeling.py` (`predict_bundle`) and notebook 04.

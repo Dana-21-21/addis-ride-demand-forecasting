@@ -9,3 +9,5 @@ streamlit>=1.28
 plotly>=5.18
 optuna>=3.4
 pyarrow>=14.0
+ipykernel>=6.29
+jupyter>=1.0
