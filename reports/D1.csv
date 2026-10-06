@@ -1,0 +1,4 @@
+model,rmse,mae
+mean predictor,29.468814182039548,20.891355045856915
+"seasonal naive (zone×dow×hour, all history)",15.360491223124761,7.443986353559587
+"seasonal naive (zone×dow×hour, last 4 weeks)",15.524736863347123,7.230982745686422

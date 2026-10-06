@@ -1,10 +1,24 @@
-# Addis Ride Demand Forecasting
+# Ride Minds — Addis Ride Demand Forecasting
 
 Qiyas Data Science & AI Hackathon — forecast hourly ride trips for 12 zones in Addis Ababa (1–14 Nov 2025).
 
-## What this app does (user view)
+## Team
 
-An operations manager picks a **zone** and a **date**. The demo returns:
+| | |
+|---|---|
+| **Team name** | Ride Minds |
+| **Members** | Danayit Girma Admase; Zenaw Negatu Abay; Samuel Melaku Bekele; Kalkidan Mihretie Mengestie; Rejeb Dendir Bireda |
+
+## Summary
+
+We clean and join trip history, hourly weather, and city events into master tables, then forecast zone-hour trips for 1–14 November 2025 with LightGBM (calendar, 14-day-safe lags, weather, and event features). Validation uses chronological rolling fortnights only.
+
+**Final validation (4 rolling folds, clean rows):** RMSE **9.60** / MAE **6.20** trips per zone-hour.  
+**Submission:** `submission/team_ride_minds_submission.csv`
+
+## What the demo does
+
+An operations manager picks a **zone** and a **date**. The app returns:
 - hourly trip forecast for that day
 - peak hour
 - estimated drivers needed (~ trips / 1.3)
@@ -14,7 +28,7 @@ An operations manager picks a **zone** and a **date**. The demo returns:
 ## Project layout
 
 ```text
-team_NAME/
+team_ride_minds/
 ├── README.md
 ├── requirements.txt
 ├── data/
@@ -44,33 +58,25 @@ pip install -r requirements.txt
 
 ## Run order
 
-1. `notebooks/01_cleaning_and_integration.ipynb` → writes `data/processed/`
-2. `notebooks/02_analysis_report.ipynb`
-3. `notebooks/03_visualizations.ipynb` → writes `figures/`
-4. `notebooks/04_modeling_and_evaluation.ipynb` → writes `models/` + submission
-5. Demo:
+1. `python scripts/build_masters.py` (or `notebooks/01_cleaning_and_integration.ipynb`) → `data/processed/`
+2. `notebooks/02_analysis_report.ipynb` → `reports/B_analysis_report.md`
+3. `notebooks/03_visualizations.ipynb` → `figures/`
+4. `notebooks/04_modeling_and_evaluation.ipynb` → `models/`, `reports/D_…`, submission
+5. Bundle demo assets (if needed): `python scripts/build_app_assets.py`
+6. Demo:
 
 ```bash
 streamlit run app/app.py
 ```
 
-## Team roles (suggested)
-
-| Role | Owns |
-|------|------|
-| Data | notebooks/01, data/processed, reports/A |
-| Analysis + Viz | notebooks/02–03, figures, reports/B |
-| Modeling | notebooks/04, models, submission, reports/D |
-| Demo + packaging | app/, README, presentation |
-
 ## Demo link
 
-_Local for now:_ `streamlit run app/app.py`  
-_Public URL:_ _(add when hosted)_
+_Local:_ `streamlit run app/app.py`  
+_Public URL:_ _(add when hosted — local demo is fine for judging)_
 
 ## Notes
 
 - Never edit files in `data/raw/`.
 - Use relative paths only.
 - Validate with time-ordered splits (never random split for reported scores).
-- Final model must use ≥1 weather feature and ≥1 events feature.
+- Final model uses weather and event features, only information known at forecast time.

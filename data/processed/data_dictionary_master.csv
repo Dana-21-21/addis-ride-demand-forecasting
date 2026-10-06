@@ -1,0 +1,25 @@
+column,type,source,description,derived
+zone,category,trips,Canonical zone label,normalize_zone_label
+pickup_hour_eat,datetime(tz),trips,Hour in Africa/Addis_Ababa,parse_trip_hour
+trips,float,trips,Target (train only),clean + impute
+temp_c,float,weather,Temperature C,join_weather
+rain_mm,float,weather,Rain mm,join_weather
+humidity_pct,float,weather,Humidity %,join_weather
+wind_kmh,float,weather,Wind km/h,join_weather
+data_type,category,weather,observed/forecast,join_weather
+n_events,int,events,Matched confirmed events,join_events
+matched_event_ids,string,events,Matched event ids,join_events
+hour,engineered,pickup_hour_eat,Demand has strong daily seasonality,hour of pickup_hour_eat
+dow,engineered,pickup_hour_eat,Weekday vs weekend patterns differ by zone,day of week 0=Mon … 6=Sun
+is_weekend,engineered,dow,"Weekend demand shifts (markets, leisure)","1 if dow in {5,6}"
+is_payday_window,engineered,pickup_hour_eat,Pay-period spending may lift trips,1 if day_of_month <=3 or >=28
+is_public_holiday,engineered,events,Holidays change city-wide demand,1 if hour overlaps a confirmed public_holiday window
+rain_mm,engineered,weather.rain_mm,Rain often increases ride requests,cleaned rain in the hour
+rain_last_3h,engineered,weather.rain_mm,Wet conditions persist beyond a single hour,rain_mm + lag1 + lag2 (by city hour)
+rain_class,engineered,rain_mm,Non-linear rain response,0 none / 1 light / 2 moderate / 3 heavy
+in_event_window,engineered,events,Events create local demand spikes,1 if any confirmed event window covers the hour
+is_football_window,engineered,events,Matches are among the largest local shocks,1 if football_match window (±2h) covers the hour
+hours_to_event_start,engineered,events.start_eat,Pre-event arrival traffic differs from during/after,hours until nearest matching event start (NaN if none)
+event_attendance,engineered,events.expected_attendance,Bigger crowds → bigger demand lift,max expected attendance among matching events
+trips_lag_168,engineered,trips,Weekly seasonality baseline per zone-hour,same zone trips 168 hours earlier (1 week)
+trend_day,engineered,pickup_hour_eat,Captures gradual growth through the year,days since 2025-01-01

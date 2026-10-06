@@ -1,0 +1,19 @@
+file,columns,issue_type,rows_affected,pct_affected,fix,why
+ride_demand_train.csv,zone,inconsistent spelling / case / whitespace,85460,100.0,Map aliases to 12 canonical zone names,55 raw labels for ~12 zones; joins need one key per place
+ride_demand_train.csv,pickup_hour,mixed datetime formats,85460,100.0,Parse by format (slash dayfirst; ISO; ISO-T +03:00) → Africa/Addis_Ababa,"Slash ~30%, ISO space ~55%, ISO-T+03 ~15%; wrong order flips day/month"
+ride_demand_train.csv,trips,missing target values,845,0.99,Impute zone×hour×dow median from valid train rows,Target cannot stay NaN for training; median preserves local patterns
+ride_demand_train.csv,trips,impossible negative values,681,0.8,"Treat negatives as missing, then impute as above",Trip counts cannot be negative (sentinel-like -1)
+ride_demand_train.csv,avg_wait_min,impossible negative values,1707,2.0,Set negatives to NaN (ops column; not a forecast feature),Wait time cannot be negative; exclude from model inputs anyway
+ride_demand_train.csv,avg_fare_birr,missing values,1277,1.49,Leave for analysis/demo only; do not use as forecast input,Fare is not known at forecast time (Rule: no leakage)
+ride_demand_train.csv,"zone, pickup_hour",duplicate zone-hour rows,1524,1.78,"After normalize zone+time, aggregate to one row per key (mean)",Duplicate keys break joins and can inflate demand (762 extra rows)
+weather_hourly.csv,timestamp,mixed formats + UTC Z vs local slash,7538,100.0,Parse both; convert ...Z from UTC to Africa/Addis_Ababa,"Z=6806 (90.3%), slash=732 (9.7%); clocks must match trips"
+weather_hourly.csv,rain_mm,sentinel missing code (-9999),76,1.01,"Replace -9999 with NaN, then time-interpolate / ffill",-9999 is not real rainfall (drags mean negative)
+weather_hourly.csv,temp_c,likely Fahrenheit mixed into Celsius,353,4.68,Convert 50–80 band with (F - 32) * 5/9,Addis rarely exceeds ~35°C; 50–80 matches °F scale
+weather_hourly.csv,"temp_c, humidity_pct",missing readings,195,2.59,Time-interpolate small gaps after dedupe,"temp nulls=42, humidity nulls=153; short gaps are fillable"
+weather_hourly.csv,timestamp,duplicate hours after UTC→EAT,1437,19.06,One row per EAT hour (prefer observed over forecast),Duplicate keys would expand trips on many-to-one join (724 extras)
+events_calendar.csv,event_type,inconsistent category spelling,165,100.0,"Normalize to snake_case (football_match, road_closure, …)",20 raw labels for a small set of event kinds
+events_calendar.csv,zone,messy / multi-zone / citywide labels,165,100.0,Map aliases; expand multi-zone & citywide onto 12 canonical zones,28 raw labels; must align with trip zones for interval join
+events_calendar.csv,"start_datetime, end_datetime",mixed formats; missing ends; end < start,26,15.76,"to_datetime(mixed, dayfirst=True); swap inverted; impute duration by type","end<start=22, missing end=4; bad windows break interval join"
+events_calendar.csv,status,inconsistent status labels,165,100.0,strip + lower → confirmed vs cancelled; exclude cancelled from features,Raw: confirmed/Confirmed/CONFIRMED/cancelled/CANCELLED
+events_calendar.csv,expected_attendance,free-text / missing attendance,81,49.09,Extract digits (strip commas/'approx'); leave unknown as NaN,Values like 'approx 34000' are not clean numerics
+events_calendar.csv,venue,missing venue,38,23.03,Keep optional; do not drop the event,Useful for demo context when present; not required for forecast

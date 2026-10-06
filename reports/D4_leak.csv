@@ -1,0 +1,5 @@
+variant,rmse,mae
+final feature set (honest),13.689177772393252,6.662635822337647
+"+ active_drivers, avg_wait_min (LEAKY)",11.42647358156427,3.362027037784178
++ 1-week lag from actuals inside the fortnight (LEAKY),13.495184349979233,6.62376906479467
+"random 80/20 split (contrast only, not valid)",14.695045956172258,5.936899652482948
