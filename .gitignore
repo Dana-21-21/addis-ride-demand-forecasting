@@ -1,4 +1,4 @@
-# =========================
+ =========================
 # Python
 # =========================
 __pycache__/
@@ -83,3 +83,17 @@ models/*.pickle
 # =========================
 *.DS_Store
 
+=======
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+catboost_info/
+*.log
+>>>>>>> bfc8fd8e4368fb94e89f67c5347a7beace4e9ddb
