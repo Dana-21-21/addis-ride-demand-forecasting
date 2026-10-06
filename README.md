@@ -71,8 +71,9 @@ streamlit run app/app.py
 
 ## Demo link
 
-_Local:_ `streamlit run app/app.py`  
-_Public URL:_ _(add when hosted — local demo is fine for judging)_
+**Live app:** https://addis-ride-demand-forecasting-mjc8skkfdzkgtw6nstthdp.streamlit.app/
+
+_Local (same app):_ `streamlit run app/app.py`
 
 ## Notes
 
